@@ -12,7 +12,7 @@ This is a simple REST API built with FastAPI that allows users to generate passw
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/password-generator-api.git
+    git clone https://github.com/js-paul200/Chatterbug.git
     ```
 
 2. Navigate to the project directory:
@@ -24,7 +24,8 @@ This is a simple REST API built with FastAPI that allows users to generate passw
 3. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install fastapi uvicorn
+    pip freeze > requirements.txt
     ```
 
 4. Run the FastAPI application:
