@@ -7,7 +7,7 @@ This is a simple REST API built with FastAPI that allows users to generate passw
 - Generate passwords of variable lengths.
 - Secure password generation using best practices.
 
-## Usage
+## Usage for this project
 
 1. Clone this repository:
 
